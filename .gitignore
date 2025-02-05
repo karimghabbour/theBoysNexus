@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyo
+*.pyd
 
 # C extensions
 *.so
@@ -169,3 +171,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# VS Code extension specific
+node_modules/
+.vscode/
+*.vsix
+*.code-workspace
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
