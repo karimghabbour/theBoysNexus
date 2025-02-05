@@ -2,7 +2,6 @@
 
 > An AI orchestration system for managing workflows and task distribution across VS Code, Web, and API interfaces.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📚 Table of Contents
 - [Overview](#-overview)
